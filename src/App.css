@@ -1,0 +1,19 @@
+.counter {
+  text-align: center;
+  font-size: 30px;
+}
+
+.custom-btn {
+  background-color: rgb(27, 112, 112);
+  font-size: 28px;
+  color: rgb(243, 246, 246);
+  border: none;
+  padding: 8px;
+  margin: 4px;
+  border-radius: 5px;
+}
+
+.container {
+  margin: auto;
+  text-align: center;
+}
